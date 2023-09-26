@@ -38,6 +38,3 @@ Create a pull request to merge your changes into this repository.
 Feedback
 We value your input! If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us. We believe that collaboration and shared insights will help us achieve our goals more effectively.
 
-License
-This project is licensed under the MIT License.
-
